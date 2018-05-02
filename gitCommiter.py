@@ -1,6 +1,6 @@
 from subprocess import call
 
-commits = 20
+commits = 50
 filename = "delete"
 extention = ".me"
 pusher = "git push https://pthacler93:Peter@g27@github.com/pthacker93/conspam"
