@@ -8,7 +8,7 @@ pusher = "git push https://pthacler93:Peter@g27@github.com/pthacker93/conspam"
 def git():
     call(["git", "add", "."])
     call(["git", "commit", "-m",'"commiter auto"']) 
-    call(["git", "push", "https://pthacker93:Peter@g27@github.com/pthacker93/conspam"])
+    call(["git", "push", "https://pthacker93:Peterg27@github.com/pthacker93/conspam"])
    
 
 
