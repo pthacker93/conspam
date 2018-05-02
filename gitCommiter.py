@@ -1,6 +1,6 @@
 from subprocess import call
 
-commits = 20
+commits = 2
 filename = "delete"
 extention = ".me"
 pusher = "git push https://pthacler93:Peter@g27@github.com/pthacker93/conspam"
@@ -21,3 +21,4 @@ for i in range(0,commits):
     
 call(["rm", "*.me"])
 
+git()
